@@ -1,1 +1,1 @@
-history 
+ECHO is on.
